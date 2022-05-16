@@ -23,7 +23,7 @@ const Buynow = () => (
       />
       <Box pb={3} pt={3}>
         <Typography variant="h4" fontWeight="700" mb={2}>
-          Download my diploma
+          Download my workk
         </Typography>
         <Button
           variant="contained"

@@ -8,7 +8,7 @@ import user3 from "../../../assets/images/backgrounds/u4.jpg";
 const blogs = [
   {
     img: user1,
-    title: "Vote for this pretty women",
+    title: "Vote for this pretty wohman",
     subtitle: "All you need is click vote button bellow! and see result",
     btncolor: "error",
   },
@@ -20,9 +20,9 @@ const blogs = [
   },
   {
     img: user3,
-    title: "Vote for this yellow bike guy",
+    title: "Vote for this yellow bike guy2",
     subtitle: "All you need is click vote button bellow! and see result",
-    btncolor: "primary",
+    btncolor: "error",
   },
 ];
 
