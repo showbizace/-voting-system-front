@@ -4,11 +4,11 @@ const Menuitems = [
     icon: "home",
     href: "/",
   },
-  {
-    title: "Results",
-    icon: "pie-chart",
-    href: "/results",
-  },
+  // {
+  //   title: "Results",
+  //   icon: "pie-chart",
+  //   href: "/results",
+  // },
   {
     title: "Ratings",
     icon: "star",

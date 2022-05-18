@@ -104,7 +104,7 @@ const SalesOverview = () => {
     },
   ];
   return (
-    <BaseCard title="this year voting result Overview">
+    <BaseCard title="Voting overview">
       <Chart
         options={optionssalesoverview}
         series={seriessalesoverview}

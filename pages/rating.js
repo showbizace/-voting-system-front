@@ -55,7 +55,6 @@ const Ratings = () => {
                 "& > legend": { mt: 2 },
               }}
             >
-              <Typography component="legend">unc</Typography>
               <styledVote
                 name="customized-color"
                 defaultValue={2}

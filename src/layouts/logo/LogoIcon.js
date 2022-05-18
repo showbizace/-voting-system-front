@@ -5,8 +5,8 @@ import LogoDark from "../../../assets/images/logos/logo.png";
 
 const LogoIcon = () => {
   return (
-    <Link href="/">
-      <Image src={LogoDark} alt={LogoDark} />
+    <Link href="https://www.imnu.edu.cn/" target={"_blank"}>
+      <Image src={LogoDark} alt="logo" />
     </Link>
   );
 };
